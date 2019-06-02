@@ -34,7 +34,7 @@ echo "\033[31;1mBatasnya:""\033[37;1mUnlimited boejank"
 echo "\033[31;1mPemogramannya:""\033[37;1mPHP boejank"
 sleep 5
 clear
-cd $HOME/Cy-Spam/Tul/
+cd $HOME/LITESPAM/Tul/
 php 1
 fi
 
@@ -49,7 +49,7 @@ echo "\033[31;1mBatasnya:""\033[37;1mUnlimited boejank"
 echo "\033[31;1mPemogramannya:""\033[37;1mPHP boejank"
 sleep 5
 clear
-cd $HOME/Cy-Spam/Tul/
+cd $HOME/LITESPAM/Tul/
 php 2.php
 fi
 
@@ -64,7 +64,7 @@ echo "\033[31;1mPemogramannya:""\033[37;1mPHP boejank"
 echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
 sleep 5
 clear
-cd $HOME/Cy-Spam/Tul/
+cd $HOME/LITESPAM/Tul/
 php 3.php
 fi
 
@@ -78,7 +78,7 @@ echo "\033[31;1mBatasnya:""\033[37;1m1 Kali aja boejank"
 echo "\033[31;1mPemogramannya:""\033[37;1mPHP boejank"
 sleep 5
 clear
-cd $HOME/Cy-Spam/Tul/
+cd $HOME/LITESPAM/Tul/
 php 4.php
 fi
 
@@ -96,7 +96,7 @@ sleep 1
 echo "\033[32;1mAne tunggu 5 Detik Boejank"
 sleep 5
 clear
-cd $HOME/Cy-Spam/Tul/
+cd $HOME/LITESPAM/Tul/
 php 5.php
 fi
 
@@ -109,7 +109,7 @@ echo "\033[31;1mJenis Spam:""\033[37;1mEmail"
 echo "\033[31;1mBatasnya:""\033[37;1mUnlimited boejank"
 echo "\033[31;1mPemogramannya:""\033[37;1mPHP boejank"
 sleep 5
-cd $HOME/Cy-Spam/Tul/
+cd $HOME/LITESPAM/Tul/
 php 6.php
 fi
 
@@ -132,7 +132,7 @@ if
 then
 clear
 toilet -f slant --gay "Cy-Spam"
-echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
+echo "\033[34;1mContact:""\033[37;1m +62 812-6663-8780"
 
 
 sleep 1
