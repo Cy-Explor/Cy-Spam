@@ -34,8 +34,9 @@ echo "\033[31;1mBatasnya:""\033[37;1mUnlimited boejank"
 echo "\033[31;1mPemogramannya:""\033[37;1mPHP boejank"
 sleep 5
 clear
-cd $Cy-Spam/1/
-php 1
+git clone https://github.com/cyweb/hammer.git
+cd hammer
+python3 hammer.py
 fi
 
 if
