@@ -34,7 +34,7 @@ echo "\033[31;1mBatasnya:""\033[37;1mUnlimited boejank"
 echo "\033[31;1mPemogramannya:""\033[37;1mPHP boejank"
 sleep 5
 clear
-cd Cy-Spam/1/
+cd $Cy-Spam/1/
 php 1
 fi
 
